@@ -43,9 +43,9 @@
     border-bottom: 2px solid gray;
     padding: 7px;
 }
-/* .f12{
+.f12{
     width: 50px;
-} */
+}
 img.f13{
     border-radius: 50%;
     width: 50px;
@@ -53,4 +53,47 @@ img.f13{
 }
 .f14{
     background-color: black;
+}
+.last1{
+  color:rgb(217, 217, 217);
+  font-size: 40;
+
+}
+.text-light{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+
+}
+.j1{
+    color:aliceblue;
+}
+.last{
+    padding: 100px;
+}
+.nav1{
+    color: aliceblue;
+    font-size: 20px;
+}
+.nav2{
+    color: aliceblue;
+}
+.nav3{
+    color: aliceblue;
+    font-size: 20px;
+
+}
+.nav4{
+    color: aliceblue;
+}
+.nav5{
+    color: aliceblue;
+    font-size: 20px;
+
+
+}
+.pic1{
+    width: 50px;
+}
+.p{
+    color: aliceblue;
 }

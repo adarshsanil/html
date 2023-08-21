@@ -43,9 +43,9 @@
     border-bottom: 2px solid gray;
     padding: 7px;
 }
-.f12{
+/* .f12{
     width: 50px;
-}
+} */
 img.f13{
     border-radius: 50%;
     width: 50px;
@@ -54,46 +54,32 @@ img.f13{
 .f14{
     background-color: black;
 }
-.last1{
-  color:rgb(217, 217, 217);
-  font-size: 40;
+.f15{
+    color: white;
+}
+.f16{
+    width: 60px;
+}
+.f17{
+    width: 60px;
+    
+}
+.date a{
+    color: white;
+    text-decoration: none;
+}
 
+a.learn{
+    color: white;
 }
-.text-light{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 20px;
-
+.f20{
+    background-color: rgb(122, 116, 116);
+    color: white;
+    padding: 70px;
 }
-.j1{
-    color:aliceblue;
+.f21{
+    width: 30px;
 }
-.last{
-    padding: 100px;
-}
-.nav1{
-    color: aliceblue;
-    font-size: 20px;
-}
-.nav2{
-    color: aliceblue;
-}
-.nav3{
-    color: aliceblue;
-    font-size: 20px;
-
-}
-.nav4{
-    color: aliceblue;
-}
-.nav5{
-    color: aliceblue;
-    font-size: 20px;
-
-
-}
-.pic1{
-    width: 50px;
-}
-.p{
-    color: aliceblue;
+.f22{
+    margin-left: 700px;
 }
